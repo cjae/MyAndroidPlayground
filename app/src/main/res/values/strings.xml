@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAndroidPlayGround</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password</string>
+    <string name="description">Pasword</string>
+    <string name="title_activity_bottom_sheet">BottomSheetActivity</string>
+    <string name="title_activity_conceal">ConcealActivity</string>
+</resources>
