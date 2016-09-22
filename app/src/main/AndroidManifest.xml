@@ -28,7 +28,7 @@
         <activity
             android:name=".activity.ConcealActivity"
             android:label="@string/title_activity_conceal"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
